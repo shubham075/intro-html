@@ -1,0 +1,130 @@
+#back{
+    background-image: url("back1.png");
+}
+.headingFirst, .eigth8{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    display: block;
+    margin-left: 310px;
+    color: white;
+}
+
+span.zero{
+    display:block;
+    background-color: black;
+    font-family: monospace;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+p.first{
+    display: inline;
+    margin-left: 300px; 
+    color: white; 
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+p.second{
+    display:inline;
+    margin-left: 450px;
+    color: white;
+}
+p.second:hover{
+    font-weight: bolder;
+}
+p.third{
+    display:inline;
+    margin-left: 30px;
+    /*margin-right: 230px;*/
+    color: white;
+}
+p.third:hover{
+    font-weight: bolder;
+}
+span.fourth{
+    display: block;
+    background: grey;
+    font-family: monospace;
+}
+
+form.fifth{
+    display: inline;
+    color: white;
+    margin-left: 300px;
+}
+p.sixth{
+    display: inline;
+    color: white;
+    margin-left: 183px ;
+}
+p.sixth:hover{
+    font-weight: bolder;
+}
+p.seventh{
+    display: inline;
+    color: white;
+    margin-left: 50px;
+   /* margin-right: 293px;*/
+}
+p.seventh:hover{
+    font-weight: bolder;
+}
+td{
+    border: none;
+    height: 150px;
+    width: 150px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; font-size: 25px;
+}
+.one{background-color: green;}
+.two{background-color: orangered;}
+.three{background-color: lightslategray;}
+.five{background-color: slategray;}
+.four{background-color: darkslategrey;}
+.six{background-color: goldenrod;}
+.seven{background-color: lightcoral;}
+.eigth{background-color: blueviolet;}
+.nine{background-color: cadetblue;}
+.ten{background-color: rgb(24, 23, 23);}
+table{
+    margin-left: 310px;
+    opacity: 0.8;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+td:hover{
+    background-color: currentColor;
+}
+td a:hover{
+    font-size: 28px;
+}
+.membership{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 300px;
+}
+.smalltxt{
+    font-size: 10px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.member1{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 320px;
+}
+
+.unlimited, .video, .teacher{
+    display: inline-block;
+    width: 250px;
+}
+.instruction, .OnTheGo, .playlist{
+    display: inline-block;
+    width: 250px;
+}
+
+
+
+
